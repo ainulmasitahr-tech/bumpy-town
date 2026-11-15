@@ -1,0 +1,6 @@
+{
+  "name": "Bumpy Town! 3D Pothole Game",
+  "description": "A playful, colorful 3D neighborhood driving game for kids where you hit potholes for points while avoiding people crossing the street.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
